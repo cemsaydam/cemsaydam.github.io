@@ -1,0 +1,23 @@
+{
+  "cem-saydam": {
+    "name": "Cem Saydam",
+    "title_tr": "Proje Yöneticisi",
+    "title_en": "Project Manager",
+    "bio_tr": "ODTÜ Mühendislik Yönetimi yüksek lisans programından mezun olan Cem Saydam, dijital ürün pasaportu projelerinde liderlik yaparak, sürdürülebilir ve döngüsel ekonomi çözümlerinin geliştirilmesine katkıda bulunmaktadır.",
+    "bio_en": "METU Engineering Management graduate, Cem Saydam leads digital product passport projects, contributing to the development of sustainable and circular economy solutions.",
+    "email": "cem.saydam@gs1tr.org",
+    "phone": "+90 538 490 13 86",
+    "linkedin": "https://www.linkedin.com/in/cem-saydam/",
+    "photo": "assets/cem-saydam.jpeg"
+  },
+  "ayse-yilmaz": {
+    "name": "Ayşe Yılmaz",
+    "title_tr": "Uzman",
+    "title_en": "Specialist",
+    "bio_tr": "Lorem ipsum...",
+    "bio_en": "Lorem ipsum...",
+    "email": "ayse@example.com",
+    "phone": "+90 555 987 65 43",
+    "photo": "assets/ayse-yilmaz.jpg"
+  }
+}
