@@ -10,14 +10,14 @@
     "linkedin": "https://www.linkedin.com/in/cem-saydam/",
     "photo": "assets/cem-saydam.jpeg"
   },
-  "ayse-yilmaz": {
-    "name": "Ayşe Yılmaz",
-    "title_tr": "Uzman",
-    "title_en": "Specialist",
-    "bio_tr": "Lorem ipsum...",
-    "bio_en": "Lorem ipsum...",
-    "email": "ayse@example.com",
-    "phone": "+90 555 987 65 43",
-    "photo": "assets/ayse-yilmaz.jpg"
+  "ada-jalis-yeniocak": {
+    "name": "Ada Jalis Yeniocak",
+    "title_tr": "İş Geliştirme Uzmanı",
+    "title_en": "Business Development Expert",
+    "bio_tr": "ODTÜ Siyaset Bilimi ve Kamu Yönetimi mezunu",
+    "bio_en": "METU Graduate in Political Science and Public Administration",
+    "email": "ada.yeniocak@gs1tr.org",
+    "phone": "+90 530 600 34 46",
+    "photo": "assets/ada-yeniocak.png"
   }
 }
